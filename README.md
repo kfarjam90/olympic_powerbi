@@ -36,3 +36,10 @@ Make sure you have the following installed before running the project:
 - [Kaggle API Key](https://www.kaggle.com/docs/api) (for automated data download)
 
 
+---
+## 📚 Sources
+
+- [Kaggle Dataset – Paris 2024 Olympics](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data)  
+- [YouTube Tutorial by The Developer](https://www.youtube.com/watch?v=rMYacj8PreA&t=6207s)
+
+
