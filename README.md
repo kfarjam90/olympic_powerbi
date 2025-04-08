@@ -4,7 +4,7 @@ Welcome to the **Paris 2024 Olympic Games Dashboard** – an interactive Power B
 
 This project uses Power BI to visualize data downloaded from Kaggle, with Python handling the data extraction. The dashboard includes interactive visualizations that highlight key statistics like total medals by country, event breakdowns, and athlete details.
 
-📁 See the full dashboard breakdown in [dashboard.md](dashboard.md)
+📁 See the full dashboard breakdown in [olympic.pdf](olympic.pdf)
 
 ---
 
